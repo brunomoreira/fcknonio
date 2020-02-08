@@ -12,9 +12,5 @@ remove a praga dos page-blocks nónio
 7. Enjoy!
 
 # Firefox
-1. Ir às opções e clicar em "Extras" ou usar o atalho "Ctrl+Shift+A"
-2. Na parte superior clicar em "Gira as suas extensões" e escolher "Depurar extras"
-3. Clicar em "Carregar extra temporário"
-4. Na pasta do projeto descarregado escolher o ficheiro "manifest.json"
-5. Reiniciar o Firefox
-6. Enjoy!
+1. https://addons.mozilla.org/pt-PT/firefox/addon/fckn%C3%B3nio/
+2. Enjoy!
