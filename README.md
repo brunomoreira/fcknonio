@@ -1,5 +1,5 @@
 # FCKnonio
-remove o page-block nónio
+remove a praga dos page-blocks nónio
 
 # Utilização
 1. Fazer o download de todo o projecto
